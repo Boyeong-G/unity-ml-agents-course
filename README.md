@@ -1,4 +1,4 @@
-# Unity ML-Agents Practice
+# Unity ML-Agents Course
 
 강의 실습을 통해 구성한 Unity 기반 강화학습 환경.
 
